@@ -14,5 +14,11 @@ bric is a text editor based on kilo.
 
 bric does not depend on any library (not even curses). It uses fairly standard VT100 (and similar terminals) escape sequences to write and read to and from the terminal.
 
+Read the blog post [here](https://caseywilliams.me/2020/bric-text-editor).
+
 ## Chip-Emul8
-So I first decided to code this Chip-8 emulator around a week ago as I've really wanted to get into emulation and as far as I was aware - writing one is the best way to learn about it. And I can definitely agree. I learnt a lot when going through this and searching the net for info, how to do certain things, using libraries etc and it has all been a great experience. The plan was that this would introduce me to the basics of emulation so I can progress to coding a Gameboy DMG-01 emulator... eventually.
+Chip-Emul8 was the first emulator I ever wrote. It is written in C and emulated the [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) virtual machine from the 70s.
+
+I actually livestreamed this however the site I did it on is no longer around so the recordings are lost. It was a lot of fun and taught me the basics of computer processors and the execution cycle etc.
+
+I was originally inspired by [Ferris](http://iamferris.com/).
