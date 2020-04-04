@@ -35,15 +35,20 @@ preserveTaxonomyNames = true
     weight = 3
 
   [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 5
 
 [params]
     since = 2018
     author = "Casey Williams"                           # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
-    subtitle = "Development Intern at Sintelix"         # Subtitle
+    subtitle = "First Year Computing Student at Imperial College London"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
