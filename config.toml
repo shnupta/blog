@@ -6,9 +6,11 @@ theme = "LeaveIt"
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
 
 preserveTaxonomyNames = true
+
+googleAnalytics = "UA-137603733-1"
+disqusShortname = "shnupta"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -45,22 +47,23 @@ preserveTaxonomyNames = true
     weight = 5
 
 [params]
-    since = 2018
+    since = 2017
     author = "Casey Williams"                           # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
     subtitle = "First Year Computing Student at Imperial College London"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
-    google_verification = ""
+    google_verification = "LXzqxiRkBwSXRYifNgzIU_m6zvSHA6ZDD9MoIiQpP-Y"
 
-    description = "" # site description
-    keywords = "" # site keywords
+    description = "A place for me to share my projects, thoughts and experiences." # site description
+    keywords = "programming, coding, development, machine learning, AI, finance, Imperial College London, Sintelix" # site keywords
 
     beian = ""
     baiduAnalytics = ""
 
     license= 'MIT License'
+
 
 [params.social]
     GitHub = "shnupta"

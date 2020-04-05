@@ -1,6 +1,6 @@
 ---
 title: "Bric Text Editor"
-date: 2020-04-03T12:11:40+01:00
+date: 2017-04-15T12:11:40+01:00
 tags: ["xterm", "terminal", "text editor"]
 categories: ["projects"]
 ---
