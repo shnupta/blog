@@ -15,7 +15,6 @@ Here are some frequently used sites:
 - [LabTS](https://teaching.doc.ic.ac.uk/labts)
 - [Materials](https://materials.doc.ic.ac.uk)
 - [Gitlab](https://gitlab.doc.ic.ac.uk)
-- [eMarking](https://emarking.doc.ic.ac.uk)
 
 ## First Year
 Links that were useful in first year.
