@@ -12,9 +12,11 @@ A collection of links that I've found useful for the Computing course at Imperia
 Here are some frequently used sites:
 
 - [CATE](https://cate.doc.ic.ac.uk)
+- [Gitlab](https://gitlab.doc.ic.ac.uk)
 - [LabTS](https://teaching.doc.ic.ac.uk/labts)
 - [Materials](https://materials.doc.ic.ac.uk)
-- [Gitlab](https://gitlab.doc.ic.ac.uk)
+- [eMarking](https://emarking.doc.ic.ac.uk)
+- [Panopto](https://imperial.cloud.panopto.eu)
 
 ## First Year
 Links that were useful in first year.
