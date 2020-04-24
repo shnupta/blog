@@ -17,9 +17,11 @@ Here are some frequently used sites:
 - [Materials](https://materials.doc.ic.ac.uk)
 - [eMarking](https://emarking.doc.ic.ac.uk)
 - [Panopto](https://imperial.cloud.panopto.eu)
+- [Piazza](https://piazza.com)
 
 ## First Year
 Links that were useful in first year.
 
+- [My Notes]({{< ref "uni-notes.md" >}})
 - [Jordan Spooner\'s Notes](https://www.doc.ic.ac.uk/~js4416/year1.html)
 - [Alistair\'s Java Tutorial Questions](https://github.com/afd/ProgrammingIITutorialQuestions)
