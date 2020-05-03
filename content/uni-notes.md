@@ -10,7 +10,7 @@ Please note I didn't write notes for all subjects. Modules that had particularly
 - [First Year](#first-year)
 
 ## First Year
-- C130 Intoduction to Databases - To come
+- [C130 Intoduction to Databases](/revision-notes/C130Databases.pdf)
 - [C140 Logic](/revision-notes/C140Logic.pdf)
 - [C142 Discrete Mathematics](/revision-notes/C142DiscreteMathematics.pdf)
 - C145 Mathematics I - To come
