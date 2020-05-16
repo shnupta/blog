@@ -1,0 +1,33 @@
+---
+title: "Deleting Social Media"
+date: 2020-05-16
+tags: ["social media", "productivity", "wellbeing"]
+categories: ["self-development"]
+---
+
+I decided to delete all of my social media accounts. This post covers the reasons why I did this and what effects it had at different stages.
+
+## Why?
+One of the main reasons for doing this was to help my concentration levels. I’ve wanted to be able to invest time in more meaningful experiences lately (I’ve successfully done this with my Spanish learning however I’d like to have more time to read and do some projects and research) but I’ve found that with many things I tell myself: “I haven’t got time”. I decided that I did have time and that social media was part of the reason as to why I felt I didn’t. It wasn't that I spent a huge amount of time on social media per day or per week, but that the constant interruption of opening it to procrastinate was not only ruining my productivity but also the quality of my time spent relaxing too.
+
+## What did I do?
+The first matter was to delete them permanently, I didn't want to give myself any easy options of returning even after 30 days of a deactivation. I deleted my accounts on Facebook, Twitter and Instagram.
+There were two videos that helped push me over the edge with this decision: [Simon Sinek on Millennials](https://www.youtube.com/watch?v=xNgQOHwsIbg&t=43s) and [Cal Newport\'s TEDx Talk: Quit social media](https://www.youtube.com/watch?v=3E7hkPZ-HTk). Watch them.
+
+I want to quickly note that obviously there were some good points to having social media (easier to 'be in the loop' with what my mates are up to, sharing top quality memes etc) but the negative aspects far, far outweighed the positive ones for me.
+
+## How was it?
+I made a few notes during these last 30 days, so I'll share with you some of what I wrote down.
+
+__Day one:__ I felt like a lot of "background pressure" had disappeared. This was surprising to me, I wasn't an overly active user and I had never felt a *need* to check social media before. It was as if now that there were simply less things for me to do, my attention didn't feel split like before.
+
+However, I was still having plenty of moments where my concentration failed and wasn’t as long as I’d have liked it to be - I knew that this was going to take time to improve.
+
+At some point during this first day I realised how long it had actually been since I had just let my thoughts roam free. It was genuinely nice to take things slow for once.
+
+__Days 2-4:__ I still had the habit of opening my phone with the subconcious intention of scrolling through Instagram to avoid doing "nothing". Over these few days I realised something else: I'm __*REALLY*__ not used to waiting for stuff. By this, I don't mean that I'm impatient but instead my brain just defaults to waiting = scroll on phone or open new tab and go to some random site.
+
+__After 2 weeks:__ I had already noticed my that my self-discipline had increased a lot. It has become a lot easier for me to notice that feeling of being about to procrastinate or "pass time", and for me to then make purposeful decisions to reset and get back to work or relax completely (by not scrolling mindlessly).
+
+## To conclude...
+At the end of all this I have a few points of reflection. As for missing social media, I don't. I know for sure know that I still have a long way to go with this, my phone usage is still a lot higher than I would like, amongst other things. However, the experience has weirdly been freeing. The simplest way to put it is that with less shiny stuff for my brain to be constantly grabbing at, I'm much more able to focus on the things that are important to me - whether that be study, work, friends or relaxing.
