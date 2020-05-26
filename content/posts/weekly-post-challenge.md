@@ -5,7 +5,7 @@ tags: ["challenge", "writing", "blogging"]
 categories: ["self-development"]
 ---
 
-I recently set the home page of my browser to be [Hacker News](https://news.ycombinator.com/news). I found it to be a distraction free way of finding out interesting stuff that's happening in the tech industry.
+I recently set the home page of my browser to be [Hacker News](https://news.ycombinator.com/news). I found it to be a distraction free way of finding out interesting stuff that's happening in the tech industry. It's also a really great way to find interesting blogs that aren't on sites like Medium, as you'll see from this post.
 
 Anyway, today I came across a post called [I bought netflix.soy](https://tinyprojects.dev/posts/i_bought_netflix_dot_soy), a fantastic blog post written by [Ben Stokes](https://stokesy.io/).
 
