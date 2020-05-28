@@ -13,7 +13,7 @@ I read Ben's post and then took a wonder round the rest of the site.
 
 This year, Ben has taken on a challenge, as he describes it:
 
-"*The goal of this website is to try and explore as many of these ideas as I can. I'm not one for new year's resolutions, but I do seem to get into a habit of setting goals around my birthday. I turned 25 on May 17th 2020, and my goal for my 25th year on earth is to try at least one of these tiny project ideas a week and see what happens. If they can make some money too, that'd be great.*"
+> The goal of this website is to try and explore as many of these ideas as I can. I'm not one for new year's resolutions, but I do seem to get into a habit of setting goals around my birthday. I turned 25 on May 17th 2020, and my goal for my 25th year on earth is to try at least one of these tiny project ideas a week and see what happens. If they can make some money too, that'd be great. - [Ben Stokes](https://tinyprojects.dev/)
 
 I thought - what a great idea. Ben also mentions that he was inspired by [Alex West](https://www.alexwest.co/) so I took a look at his site too. I noticed that Alex actually writes a post **every single day** as well as weekly and monthly posts.
 
