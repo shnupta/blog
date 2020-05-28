@@ -47,7 +47,7 @@ or simply press Ctrl-D.
 
 As soon as you finish recording you are presented with the option to upload directly to asciinema.org or save the cast locally. If you upload then you are given a link directly to the cast in the terminal - lovely!
 
-There are of course more options that you can do with asciinema suching as using the `-t` option to give your cast a title, specifying a maximum length, and also playing casts at given URL.
+There are of course more options that you can do with asciinema such as using the `-t` option to give your cast a title, specifying a maximum length, and also playing casts at given URL.
 
 I urge you to check them out for yourselves. See the command options with:
 ```
