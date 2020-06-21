@@ -16,3 +16,6 @@ Actually, today we are hopefully going to get the first full build working!
 The last week and a half of my first year at university has arrived, and although it definitely ended in short and in unusual fashion, it has been the best year of my life.
 
 Anyway, nothing particularly interesting for this week's post but it still feels good to write some stuff and publish it.
+
+--------------
+This is the third post of my [weekly post challenge!]({{< ref "weekly-post-challenge.md" >}})
