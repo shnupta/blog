@@ -33,7 +33,9 @@ Content file:
 Template file:
 ![example template file](/images/tent/tent-template-file.png)
 
-We haven't published tent publically yet but when we do I'll link it here!
+UPDATE:
+~~We haven't published tent publically yet but when we do I'll link it here!~~
+I've now published the code on [my github](https://github.com/shnupta/tent).
 
 --------------
 This is the fourth post of my [weekly post challenge!]({{< ref "weekly-post-challenge.md" >}})
