@@ -50,14 +50,14 @@ disqusShortname = "shnupta"
     since = 2017
     author = "Casey Williams"                           # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
-    subtitle = "First Year Computing Student at Imperial College London"         # Subtitle
+    subtitle = "Second Year Computing Student at Imperial College London"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
     google_verification = "LXzqxiRkBwSXRYifNgzIU_m6zvSHA6ZDD9MoIiQpP-Y"
 
     description = "A place for me to share my projects, thoughts and experiences." # site description
-    keywords = "programming, coding, development, machine learning, AI, finance, Imperial College London, Sintelix" # site keywords
+    keywords = "programming, coding, development, machine learning, AI, finance, Imperial College London" # site keywords
 
     beian = ""
     baiduAnalytics = ""
@@ -67,5 +67,5 @@ disqusShortname = "shnupta"
 
 [params.social]
     GitHub = "shnupta"
-    Email   = "williamshoops96@gmail.com"
+    Email   = "caseyjw@mail.com"
     LinkedIn = "casey-williams"
