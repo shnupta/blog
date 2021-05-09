@@ -3,7 +3,6 @@ title: "Hacking For Free Red Bull"
 date: 2021-05-04
 tags: ["hacking"]
 categories: ["cool-stuff"]
-draft: true
 ---
 
 I've been getting this Red Bull ad on about every 9 out of 10 YouTube videos recently.
