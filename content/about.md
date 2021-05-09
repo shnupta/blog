@@ -6,8 +6,6 @@ menu = "main"
 ## What am I up to?
 I'm currently reading Computer Science at Imperial College London.
 
-I've also been lucky enough to secure a scholarship from [Sintelix](https://www.sintelix.com) where I currently work as a Development Intern, during both term-time and summer, but mostly the latter.
-
 ## Interests
 I have many interests within computer science, these range from:
 - Natural Language Processing
