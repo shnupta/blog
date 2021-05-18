@@ -50,3 +50,8 @@ I refreshed the page and copied down the new run id without pressing the start b
 But was 2000 really the maximum? Of course it wasn't, why not really put myself at the top with a lovely score of 123456789. Even better. Now, let's just hope I still get those 2 cans of Red Bull.
 
 ![](/images/redbullhacking/leaderboard.png)
+
+## Update!
+I got the free cans!
+
+![](/images/redbullhacking/redbulls.jpeg)
